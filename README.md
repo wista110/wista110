@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=あなたのユーザー名&theme=github_dark)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wista110&theme=github_dark)
 
 ### Languages & Frameworks  
 <img src="https://img.shields.io/badge/Ruby‑on‑Rails‑CC0000?style=for-the-badge&logo=ruby&logoColor=white" />  
@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 <!-- 他にも Next.js, Python, Go も同様に追加可能 -->
 
 <!-- コミット推移 -->
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=あなたのユーザー名&theme=github_dark&utcOffset=9)
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wista110&theme=github_dark&utcOffset=9)
 
 <!-- 言語別リポジトリ数 -->
-![Repos by Lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=あなたのユーザー名&theme=github_dark)
+![Repos by Lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wista110&theme=github_dark)
 
 <!-- コミット言語別 -->
-![Commits by Lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=あなたのユーザー名&theme=github_dark)
+![Commits by Lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wista110&theme=github_dark)
 
 
 ### Languages & Frameworks
@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 
 
 ### Activity Overview & Stats
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=あなたのユーザー名&theme=github_dark)
-![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=あなたのユーザー名&theme=github_dark)
-![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=あなたのユーザー名&theme=github_dark)
-![Productive Time (UTC+9)](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=あなたのユーザー名&theme=github_dark&utcOffset=9)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wista110&theme=github_dark)
+![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wista110&theme=github_dark)
+![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wista110&theme=github_dark)
+![Productive Time (UTC+9)](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wista110&theme=github_dark&utcOffset=9)
 
 ### Connect With Me
 [![Twitter](https://img.shields.io/badge/Twitter‑Follow%20me‑1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/あなたのユーザー名)
