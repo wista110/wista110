@@ -1,5 +1,5 @@
 ## 👋About Me
-Aspiring IT engineer with a strong foundation in Salesforce system administration and web design experience. I’m currently diving into AWS, business app development, native mobile development, and preparing for the Information Security Support Specialist certification.
+Aspiring IT engineer with a strong foundation in Salesforce system administration and web design experience. I’m currently diving into GoogleCloud, business app development, native mobile development, and preparing for the Information Security Support Specialist certification.
 
 ### Activity Overview & Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -16,7 +16,7 @@ I’m passionate about creating end-to-end digital solutions—from cloud infras
 
 ### 🔭 Always Exploring
 
-Currently enhancing my AWS architecture skills, building practical app projects, and deepening my understanding of security protocols through IPA exam prep.
+Currently enhancing my GoogleCloud architecture skills, building practical app projects, and deepening my understanding of security protocols through IPA exam prep.
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,php,python,react,next,aws,github,docker,vscode,flutter,dart,gcp" />
